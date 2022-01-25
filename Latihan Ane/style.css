@@ -1,0 +1,24 @@
+h1 {
+    padding-top: 50px;
+    text-align: center;
+}
+
+h3 {
+    padding-top: 50px;
+    text-align: center;
+}
+
+
+
+.container-fluid img {
+margin-left: 375px;
+padding-top: 50px;
+}
+
+body {
+
+    background-color: #ffc107;
+}
+.form{
+    margin: 115px;
+}
